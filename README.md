@@ -1,4 +1,6 @@
-<h3 align="center">A frontend developer from Thailand! Interested in Web developing!</h3>
+<div align="center">
+  <h3>A frontend developer from Thailand! Interested in Web developing!</h3>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
