@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Sawadee everyone 🙏🏻 - สวัสดีทุกคน!</h2>
-  <h3>I'm front-end developer from Thailand! Interested in Robot, AI, Mobile Application and Web development</h3>
+  <h3>I'm front-end developer from Thailand! Interested in UI/UX Design, Mobile Application and Web development</h3>
 </div>
 
 <h3 align="left">[ Connect with me ] _</h3>
