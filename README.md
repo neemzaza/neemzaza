@@ -1,5 +1,5 @@
 <div align="center">
-  <h4>Sawadee everyone 🙏🏻 - สวัสดีทุกคน!</h4>
+  <h2>Sawadee everyone 🙏🏻 - สวัสดีทุกคน!</h2>
   <h3>I'm front-end developer from Thailand! Interested in Robot, AI, Mobile Application and Web development</h3>
 </div>
 
