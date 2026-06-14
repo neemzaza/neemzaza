@@ -1,11 +1,10 @@
 <h1>Sawadee from Thailand, I'm Pluem</h1>
-<h3>I'm front-end developer from Thailand! Interested in UI/UX Design, Mobile Application and Web development</h3>
+<h3>I'm indie developer from Thailand! Interested in App Development, Game Maker, Soundtrack/Music Maker (Just begin).</h3>
+<h3>Also, I'm Amateur Pianist who is passionate about Classical Music.</h3>
 
-- 🌱 I’m currently learning **Swift, Next.js and more front-end tools**
+- 🌱 I’m currently learning **Unity, C#, Swift and brushed up Competitive Prog**
 
-- 👨‍💻 My portfolio [https://it-airwavy.netlify.app/portfolio](https://it-airwavy.netlify.app/portfolio)
-
-- ⚡ Fun fact **Everything is possible.**
+- ⚡ Fun fact **Everything is possible :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
