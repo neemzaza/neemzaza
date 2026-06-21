@@ -1,21 +1,49 @@
-<h1>Sawadee from Thailand, I'm Pluem</h1>
-<h3>I'm indie developer from Thailand! Interested in App Development, Game Maker, Soundtrack/Music Maker (Just begin).</h3>
-<h3>Also, I'm Amateur Pianist who is passionate about Classical Music.</h3>
+## 🙏 Sawadee-krub <code>(Hello)</code> from 🇹🇭 Thailand, I'm "Pluem"
+> {
+### ====== [about_this_person] ======
+`description-dev`: I'm indie developer. Interested in 🛠️ App Development, 🕹️ Game Maker, 📀 Soundtrack/Music Maker (Just begin).
 
-- 🌱 I’m currently learning **Unity, C#, Swift and brushed up Competitive Prog**
+`description-pianist`: Also, I'm Amateur 🎹 Pianist who is passionate about 🎼 Classical Music. Love to listen (and play) [Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin), [Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff), [Liszt](https://en.wikipedia.org/wiki/Franz_Liszt) and any [Romantic pieces](https://en.wikipedia.org/wiki/Romantic_music)
 
+- 🌱 I’m currently learning `Unity`, `C#`, `Swift` and brushed up `Competitive Prog`
+- 🌱 Of course, I’m currently learning `Basic music theory` and skill up my `piano skill`.
 - ⚡ Fun fact **Everything is possible :)**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### ====== [connect_with_me] ======
 <p align="left">
 <a href="https://instagram.com/silicon.newbie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silicon.newbie_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/airwavy!!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="airwavy!!" height="30" width="40" /></a>
+<a href="mailto:airwavyy@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neemzaza&show_icons=true&locale=en&layout=compact" alt="neemzaza" /></p>
+### ====== [reward] ======
+- Winner of `Swift Student Challenge 2025` : [Repo](https://github.com/neemzaza/HearPiano)
+- Finalist of `National Software Contest 2025` as Project Leader, Art Director and Lead Game Designer : [Repo](https://github.com/jaarabee/themissingnote_skibidi01lnwza)
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neemzaza&show_icons=true&locale=en" alt="neemzaza" /></p>
+### ====== [my_works_and_my_projects] ======
+- <a href="https://github.com/neemzaza?tab=repositories">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) My Repositories</a>
 
+- <a href="https://musescore.com/user/47456249"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/MuseScore_logo_square.svg" width="40" alt="musescore-logo"> My Arranged Score (Sheet Music)</a>
+
+---
+
+### ====== [language_framework_and_tools] ======
+`Game`: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+`App`: ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+`Coding`: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+`Web`: HTML/CSS, ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+[![neemzaza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=neemzaza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=neemzaza&show_icons=true&theme=dark#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neemzaza&layout=pie&theme=dark#gh-dark-mode-only)](https://github.com/neemzaza/github-readme-stats)
+
+> }
