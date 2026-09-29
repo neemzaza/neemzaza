@@ -1,12 +1,12 @@
 ## 🙏 Sawadee-krub <code>(Hello)</code> from 🇹🇭 Thailand, I'm "Pluem"
 > {
 ### ====== [about_this_person] ======
-`description-dev`: I'm indie developer. Interested in 🛠️ App Development, 🕹️ Game Maker, 📀 Soundtrack/Music Maker (Just begin).
+`description-dev`: I'm indie developer. Interested in 🛠️ App Development, Web Development, 🕹️ Game Maker.
 
-`description-pianist`: Also, I'm Amateur 🎹 Pianist who is passionate about 🎼 Classical Music. Love to listen (and play) [Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin), [Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff), [Liszt](https://en.wikipedia.org/wiki/Franz_Liszt) and any [Romantic pieces](https://en.wikipedia.org/wiki/Romantic_music)
+`description-pianist`: Also, I'm Amateur 🎹 Pianist interested in free-style improvisation, score arrange (usually from Genshin Impact Music) and love to listen (and play) [Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin), [Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff), [Liszt](https://en.wikipedia.org/wiki/Franz_Liszt) and any [Romantic pieces](https://en.wikipedia.org/wiki/Romantic_music)
 
-- 🌱 I’m currently learning `Unity`, `C#`, `Swift` and brushed up `Competitive Prog`
-- 🌱 Of course, I’m currently learning `Basic music theory` and skill up my `piano skill`.
+- 🌱 I’m currently learning `Digital Logic`, skill up `Competitive Prog`.
+- 🌱 Of course, I’m currently all in practicing `Sight Reading` and skill up my `Music Theory`. (Paused Repertoire a while)
 - ⚡ Fun fact **Everything is possible :)**
 
 ---
